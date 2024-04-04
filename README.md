@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yawbia
-- 👀 I’m interested in structural biology in infectious disease research field and developing biotherapeutic modalities. 
-- 🌱 I’m currently on project based learning for coding. 
-- 💞️ You can reach me at yawbia.tan@ntu.edu.sg or tanyawbia@gmail.com for collaboration. 
+- YawBia
+- ✨ I’m interested in structural biology in infectious disease research field and developing biotherapeutic modalities. 
+- ✨ I’m currently on project based learning for coding. 
+- ✨ You can reach me at yawbia.tan@ntu.edu.sg or tanyawbia@gmail.com for collaboration. 
 
 
 <!---
