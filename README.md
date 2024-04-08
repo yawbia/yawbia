@@ -28,7 +28,7 @@
     <br />
     My recent research highlight - Click the image to read more
     <br />
-    <a href="https://doi.org/10.1126/sciadv.add2536"> <img src="./chikv-rc.gif" alt="HTML5 Icon" width="150" height="100"> </a>
+    <a href="https://doi.org/10.1126/sciadv.add2536" target="_blank"><img src="./chikv-rc.gif" alt="HTML5 Icon" width="150" height="100"> </a>
   </p>
 </p>
 
