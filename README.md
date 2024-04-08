@@ -13,11 +13,11 @@
     with interest in developing biotherapeutic modalities using structure-guided approaches. 
     <br />
     <br />
-    I'm working under <a href="https://blogs.ntu.edu.sg/dhlab/"> Dahai Lab</a> at <a href="https://www.ntu.edu.sg/medicine"> LKCMedicine, NTU</a>,
+    I'm working under <a href="https://blogs.ntu.edu.sg/dhlab/" target="_blank" rel="noopener noreferrer"> Dahai Lab</a> at <a href="https://www.ntu.edu.sg/medicine" target="_blank" rel="noopener noreferrer"> LKCMedicine, NTU</a>,
     <br />
     in collaboration with J&J-CGHD programme. 
     <br />
-    Please view my research publication at <a href="https://scholar.google.com/citations?user=vRS_sU4AAAAJ&hl=en&authuser=1"> google-scholar</a>. 
+    Please view my research publication at <a href="https://scholar.google.com/citations?user=vRS_sU4AAAAJ&hl=en&authuser=1" target="_blank" rel="noopener noreferrer"> google-scholar</a>. 
     <br />
     <br />
     You can reach me at <a href="mailto:tanyawbia@gmail.com"> tanyawbia@gmail.com</a> for collaboration. 
@@ -28,7 +28,7 @@
     <br />
     My recent research highlight - Click the image to read more
     <br />
-    <a href="https://doi.org/10.1126/sciadv.add2536" target="_blank"><img src="./chikv-rc.gif" alt="HTML5 Icon" width="150" height="100"> </a>
+    <a href="https://doi.org/10.1126/sciadv.add2536" target="_blank" rel="noopener noreferrer"><img src="./chikv-rc.gif" alt="HTML5 Icon" width="150" height="100"> </a>
   </p>
 </p>
 
