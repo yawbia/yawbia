@@ -1,11 +1,11 @@
 
 <br />
 <p align="center">
-  <h1 align="center">✨ YawBia ✨</h1>
+  <h1 align="center">♦ Yaw Bia ♦</h1>
 
   <p align="center">
-    <strong>Personal Website» </strong>
-    <a href="https://yawbia.github.io/portfolio"> yawbia.github.io/portfolio</a>
+    <strong>Visit my Personal Website» </strong>
+    <a href="https://yawbia.github.io/portfolio"> Personal Website </a> compiled with NodeJS.
     <br />
     <br />
     I’m a structural biologist in infectious disease research field 
@@ -23,7 +23,12 @@
     You can reach me at <a href="mailto:tanyawbia@gmail.com"> tanyawbia@gmail.com</a> for collaboration. 
     <br />
     <br />
-    I'm currently learning programming and building mini side projects. 
+    I love building mini side projects by teaching myself how to code and tinker around. 
+    <br />
+    <br />
+    My recent research highlight - Click the image to read more
+    <br />
+    <a href="https://doi.org/10.1126/sciadv.add2536"> <img src="./chikv-rc.gif" alt="HTML5 Icon" width="150" height="100"> </a>
   </p>
 </p>
 
