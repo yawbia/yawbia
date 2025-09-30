@@ -4,9 +4,6 @@
   <h1 align="center">Yaw Bia</h1>
 
   <p align="center">
-    <strong>Visit my Personal Website» </strong>
-    <a href="https://yawbia.github.io/portfolio"> Personal Website </a>.
-    <br />
     <br />
     I’m a structural biologist in infectious disease research field 
     <br />
@@ -22,6 +19,9 @@
     <br />
     <br />
     You can reach me at <a href="mailto:tanyawbia6@gmail.com"> tanyawbia6@gmail.com</a> for collaboration.
+    <br />
+    <strong>Visit my Personal Website» </strong>
+    <a href="https://yawbia.github.io/portfolio"> Personal Website </a>.
     <br />
     <br />
     My recent research highlight - Click the image to read more
