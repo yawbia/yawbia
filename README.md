@@ -1,7 +1,7 @@
 
 <br />
 <p align="center">
-  <h1 align="center">♦ Yaw Bia ♦</h1>
+  <h1 align="center">Yaw Bia</h1>
 
   <p align="center">
     <strong>Visit my Personal Website» </strong>
@@ -13,7 +13,7 @@
     with interest in developing biotherapeutic modalities using structure-guided approaches. 
     <br />
     <br />
-    I am currently working in <a href="https://www.thrixen.com" target="_blank" rel="noopener noreferrer"> Thrixen on developing next-generation Point-of-Care diagnostics products, by establishing in-house insilico platforms for protein engineering and computational structural work. 
+    I am currently working in <a href="https://www.thrixen.com" target="_blank" rel="noopener noreferrer"> Thrixen<a/> on developing next-generation Point-of-Care diagnostics products, by establishing in-house insilico platforms for protein engineering and computational structural work. 
     <br />
     <br />
     Previous Lab I worked in: <a href="https://blogs.ntu.edu.sg/dhlab/" target="_blank" rel="noopener noreferrer"> Dahai Lab</a> at <a href="https://www.ntu.edu.sg/medicine" target="_blank" rel="noopener noreferrer"> LKCMedicine, NTU</a>, and DUKE-NUS Medical School. 
