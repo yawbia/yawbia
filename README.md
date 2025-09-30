@@ -5,7 +5,7 @@
 
   <p align="center">
     <strong>Visit my Personal Website» </strong>
-    <a href="https://yawbia.github.io/portfolio"> Personal Website </a> compiled with NodeJS.
+    <a href="https://yawbia.github.io/portfolio"> Personal Website </a>.
     <br />
     <br />
     I’m a structural biologist in infectious disease research field 
