@@ -21,10 +21,7 @@
     Please view my research publication at <a href="https://scholar.google.com/citations?user=vRS_sU4AAAAJ&hl=en&authuser=1" target="_blank" rel="noopener noreferrer"> google-scholar</a>. 
     <br />
     <br />
-    You can reach me at <a href="mailto:tanyawbia@gmail.com"> tanyawbia@gmail.com</a> for collaboration. 
-    <br />
-    <br />
-    I love building mini side projects by teaching myself how to code and tinker around. 
+    You can reach me at <a href="mailto:tanyawbia6@gmail.com"> tanyawbia6@gmail.com</a> for collaboration.
     <br />
     <br />
     My recent research highlight - Click the image to read more
