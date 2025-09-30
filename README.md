@@ -16,7 +16,7 @@
     I am currently working in <a href="https://www.thrixen.com" target="_blank" rel="noopener noreferrer"> Thrixen<a/> on developing next-generation Point-of-Care diagnostics products, by establishing in-house insilico platforms for protein engineering and computational structural work. 
     <br />
     <br />
-    Previous Lab I worked in: <a href="https://blogs.ntu.edu.sg/dhlab/" target="_blank" rel="noopener noreferrer"> Dahai Lab</a> at <a href="https://www.ntu.edu.sg/medicine" target="_blank" rel="noopener noreferrer"> LKCMedicine, NTU</a>, and DUKE-NUS Medical School. 
+    Previous Lab I worked in: <a href="https://blogs.ntu.edu.sg/dhlab/" target="_blank" rel="noopener noreferrer"> Dahai Lab</a> at <a href="https://www.ntu.edu.sg/medicine" target="_blank" rel="noopener noreferrer"> LKCMedicine, NTU</a>, and <a href="https://www.duke-nus.edu.sg/directory/detail/vasudevan-subhash" target="_blank" rel="noopener noreferrer">Subhash's lab<a/> DUKE-NUS Medical School. 
     <br />
     Please view my research publication at <a href="https://scholar.google.com/citations?user=vRS_sU4AAAAJ&hl=en&authuser=1" target="_blank" rel="noopener noreferrer"> google-scholar</a>. 
     <br />
