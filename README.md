@@ -39,7 +39,7 @@ I've had the privilege of working in these amazing labs:
 
 <ul>
     <li>📄 Check out my research publications on <a href="https://scholar.google.com/citations?user=vRS_sU4AAAAJ&hl=en&authuser=1">Google Scholar</a>.</li>
-    <li>🌐 Visit my <a href="https://yawbia.github.io/portfolio">Personal Website</a> for more details.</li>
+    <li>🌐 Visit my <a href="https://yawbia.github.io">Personal Website</a> for more details.</li>
 </ul>
 
 ---
