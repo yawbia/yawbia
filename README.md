@@ -1,9 +1,9 @@
 
 <br />
-<p align="center">
-  <h1 align="center">Yaw Bia</h1>
+<p align="left">
+  <h1 align="left">Yaw Bia</h1>
 
-  <p align="center">
+  <p align="left">
     <br />
     I’m a structural biologist in infectious disease research field 
     <br />
