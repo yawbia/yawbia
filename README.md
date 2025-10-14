@@ -10,7 +10,7 @@
     with interest in developing biotherapeutic modalities using structure-guided approaches. 
     <br />
     <br />
-    I am currently working in <a href="https://www.thrixen.com" target="_blank" rel="noopener noreferrer"> Thrixen<a/> on developing next-generation Point-of-Care diagnostics products, by establishing in-house insilico platforms for protein engineering and computational structural work. 
+    I am currently working in <a href="https://www.thrixen.com" target="_blank" rel="noopener noreferrer"> Thrixen<a/> on developing next-generation Point-of-Care diagnostics products, by establishing in-house insilico platforms for protein engineering, database building, building web-app for automated analysis, and biophysical assay development. 
     <br />
     <br />
     Previous Lab I worked in: <a href="https://blogs.ntu.edu.sg/dhlab/" target="_blank" rel="noopener noreferrer"> Dahai Lab</a> at <a href="https://www.ntu.edu.sg/medicine" target="_blank" rel="noopener noreferrer"> LKCMedicine, NTU</a>, and <a href="https://www.duke-nus.edu.sg/directory/detail/vasudevan-subhash" target="_blank" rel="noopener noreferrer">Subhash's lab<a/> DUKE-NUS Medical School. 
